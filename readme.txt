@@ -1,0 +1,8 @@
+01   =>   Hello.java
+02   =>   Arithmatic.java
+03   =>   Si.java
+04   =>   OddEven.java
+05   =>   AreaCircle.java
+06   =>   Lnumber.java
+07   =>   PatternOne.java
+08   =>   SimpleIf.java
