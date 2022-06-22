@@ -6,3 +6,4 @@
 06   =>   Lnumber.java
 07   =>   PatternOne.java
 08   =>   SimpleIf.java
+22   =>   Scan.java  
