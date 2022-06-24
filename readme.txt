@@ -6,4 +6,13 @@
 06   =>   Lnumber.java
 07   =>   PatternOne.java
 08   =>   SimpleIf.java
+09   =>   Iflese.java
+10   =>   NestedIfElse.java
+11   =>   Elseif.java
+12   =>   WhileLoop.java
+13   =>   ForLoop.java
+14   =>   DoWhile.java
+15   =>   Switch.java
+16   =>   Cons.java
+17   =>   Demo.java
 22   =>   Scan.java  
