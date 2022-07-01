@@ -15,4 +15,8 @@
 15   =>   Switch.java
 16   =>   Cons.java
 17   =>   Demo.java
+18   =>   Singleinheritance.java
+19   =>   Multilevelinheritance.java
+20   =>   Hierarchicalinheritance.java
+21   =>   MethodOverloading.java
 22   =>   Scan.java  
